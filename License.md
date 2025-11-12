@@ -1,4 +1,4 @@
-BoonMind — BUE: The Boon Ouroboros Engine
+BoonMind — BUE: The Boon Uroboros Engine
 Public Research License (Apache 2.0 Variant)
 
 Copyright © 2025 Carl Boon / codedawakening
@@ -11,7 +11,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 Proper attribution must be given in all publications or derivative academic works citing:
 
-Boon, C. (2025). BUE — The Boon Ouroboros Engine: The Universal Observer Framework for Reality, Consciousness & Computation. Public Release v1.0.
+Boon, C. (2025). BUE — The Boon Uroboros Engine: The Universal Observer Framework for Reality, Consciousness & Computation. Public Release v1.0.
 
 Redistribution or deployment for commercial gain, integration into revenue-generating products, or use in closed or proprietary systems requires a separate commercial license or partnership agreement (see Section 5).
 
