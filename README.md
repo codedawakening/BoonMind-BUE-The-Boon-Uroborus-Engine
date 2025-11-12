@@ -1,11 +1,11 @@
-BUE — The Boon Ouroboros Engine
+BUE — The Boon Uroboros Engine
 
 The Universal Observer Framework for Reality, Consciousness & Computation
 Public framework · Mathematical foundation · Verification protocols · Production systems under partnership
 
 0 — Executive summary
 
-The Boon Ouroboros Engine (BUE) extends the BoonMind framework to formalize the observer as a mathematically necessary operator in all recursive systems.
+The Boon Uroboros Engine (BUE) extends the BoonMind framework to formalize the observer as a mathematically necessary operator in all recursive systems.
 
 It unifies physics, computation, and consciousness under the general recursion:
 
@@ -39,7 +39,7 @@ Contributing & citation
 
 1 — About
 
-The Boon Ouroboros Engine defines recursion as a bidirectional conversation between forward (positive) and reverse (negative) domains, mediated by an observer function θ.
+The Boon Uroboros Engine defines recursion as a bidirectional conversation between forward (positive) and reverse (negative) domains, mediated by an observer function θ.
 
 Core relation
 f(a, b, θ) = φ · a – (1 / φ) · b + θ · Δ
